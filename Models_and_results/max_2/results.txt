@@ -1,0 +1,298 @@
+======== Epoch 1 / 5 ========
+Training...
+481it [09:38,  1.20s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.7859901856484
+model previously passed
+Running eval on  train ...
+481it [01:31,  5.24it/s]
+1it [00:00,  5.40it/s]
+ Accuracy: 0.62
+ Fscore: 0.59
+ Precision: 0.64
+ Recall: 0.59
+ Roc Auc: 0.77
+ Test took: 0:01:33
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.32it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.60
+ Fscore: 0.58
+ Precision: 0.64
+ Recall: 0.57
+ Roc Auc: 0.77
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.29it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.60
+ Fscore: 0.58
+ Precision: 0.63
+ Recall: 0.57
+ Roc Auc: 0.76
+ Test took: 0:00:12
+0.5768242981280326 0
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+
+======== Epoch 2 / 5 ========
+Training...
+481it [09:13,  1.15s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.62466075365853
+model previously passed
+Running eval on  train ...
+481it [01:32,  5.20it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.66
+ Recall: 0.62
+ Roc Auc: 0.81
+ Test took: 0:01:33
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.33it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.63
+ Fscore: 0.62
+ Precision: 0.65
+ Recall: 0.61
+ Roc Auc: 0.79
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.23it/s]
+ Accuracy: 0.64
+ Fscore: 0.62
+ Precision: 0.65
+ Recall: 0.61
+ Roc Auc: 0.79
+ Test took: 0:00:12
+0.6151868758406023 0.5768242981280326
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [09:45,  1.22s/it]
+1it [00:00,  5.56it/s]
+avg_train_loss 295.57246636848686
+model previously passed
+Running eval on  train ...
+481it [01:28,  5.44it/s]
+1it [00:00,  5.54it/s]
+ Accuracy: 0.67
+ Fscore: 0.63
+ Precision: 0.68
+ Recall: 0.63
+ Roc Auc: 0.82
+ Test took: 0:01:29
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.47it/s]
+1it [00:00,  5.92it/s]
+ Accuracy: 0.63
+ Fscore: 0.59
+ Precision: 0.64
+ Recall: 0.59
+ Roc Auc: 0.79
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.47it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.65
+ Fscore: 0.61
+ Precision: 0.67
+ Recall: 0.62
+ Roc Auc: 0.80
+ Test took: 0:00:11
+
+======== Epoch 4 / 5 ========
+Training...
+481it [10:07,  1.26s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.54816504972143
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.31it/s]
+1it [00:00,  6.23it/s]
+ Accuracy: 0.72
+ Fscore: 0.70
+ Precision: 0.71
+ Recall: 0.70
+ Roc Auc: 0.86
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.48it/s]
+1it [00:00,  5.44it/s]
+ Accuracy: 0.65
+ Fscore: 0.64
+ Precision: 0.65
+ Recall: 0.63
+ Roc Auc: 0.80
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.38it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:00:11
+0.6368197008523029 0.6151868758406023
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [09:57,  1.24s/it]
+1it [00:00,  5.14it/s]
+avg_train_loss 295.5214897679192
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.32it/s]
+1it [00:00,  5.56it/s]
+ Accuracy: 0.72
+ Fscore: 0.70
+ Precision: 0.71
+ Recall: 0.71
+ Roc Auc: 0.87
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:12,  4.86it/s]
+1it [00:00,  5.89it/s]
+ Accuracy: 0.63
+ Fscore: 0.61
+ Precision: 0.62
+ Recall: 0.62
+ Roc Auc: 0.80
+ Test took: 0:00:13
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.28it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.64
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:00:12
+best_val_fscore 0.6368197008523029
+best_test_fscore 0.6450843339096842
+best_val_rocauc 0.8048715293394487
+best_test_rocauc 0.8114699426263682
+best_val_precision 0.6465088519500627
+best_test_precision 0.6523610103401604
+best_val_recall 0.6340956797037219
+best_test_recall 0.6442216799012961
+
+
+Plausibility
+IOU F1 : 0.23024848225129013
+Token F1 : 0.48968492354107707
+AUPRC : 0.8184331292068149
+
+Faithfulness
+Comprehensiveness : 0.30358674500359084
+Sufficiency -0.04339521137048244
+​
+
+
+
+
+
+
+
+
+
+
+
+{
+    "alpha": 0.5,
+    "att_lambda": 100.0,
+    "attention": "softmax",
+    "auto_weights": "True",
+    "batch_size": 32.0,
+    "bert_tokens": "False",
+    "decay": "False",
+    "device": "cuda",
+    "drop_embed": 0.5,
+    "drop_fc": 0.2,
+    "drop_hidden": 0.1,
+    "dropout_bert": "N/A",
+    "embed_size": 300.0,
+    "embeddings": "None",
+    "epochs": 20.0,
+    "epsilon": 1e-08,
+    "hidden_size": 64.0,
+    "include_special": "False",
+    "is_model": "True",
+    "learning_rate": 0.001,
+    "logging": "neptune",
+    "majority": 2.0,
+    "max_length": 128.0,
+    "method": "additive",
+    "model_name": "birnnscrat",
+    "normalized": "False",
+    "not_recollect": "True",
+    "num_classes": 3.0,
+    "num_supervised_heads": "N/A",
+    "p_value": 0.8,
+    "padding_idx": 0.0,
+    "path_files": "N/A",
+    "random_seed": 42.0,
+    "save_only_bert": "N/A",
+    "seq_model": "lstm",
+    "set_decay": 0.1,
+    "supervised_layer_pos": "N/A",
+    "to_save": "True",
+    "train_att": "True",
+    "train_embed": "True",
+    "type_attention": "softmax",
+    "variance": 5.0,
+    "vocab_size": 21672.0,
+    "weights": "[1.0795518  0.82139814 1.1678787 ]",
+    "what_bert": "N/A",
+    "window": 4.0
+}
+
+
+Attention Layer 
+
+
+class Attention_BiRNN_Layer(nn.Module):
+    def __init__(self, feature_dim, step_dim, bias=True, **kwargs):
+        super(Attention_BiRNN_Layer, self).__init__(**kwargs)
+        
+        self.supports_masking = True
+
+        self.bias = bias
+        self.feature_dim = feature_dim
+        self.step_dim = step_dim
+        
+        self.seq_model = nn.LSTM(self.feature_dim, 1, bidirectional=True, batch_first=True, dropout=0.1)
+
+        if bias:
+            self.b = nn.Parameter(torch.zeros(feature_dim))
+        
+    def forward(self, x, mask=None):
+        a, _ = self.seq_model(x)
+        if(debug):
+            print("attention", a.shape)
+        a = torch.sum(a, dim=2)
+        #a = a.squeeze(2)
+        a[~mask] = float('-inf')
+        a=torch.softmax(a, dim=1)
+        weighted_input = x * torch.unsqueeze(a, -1)
+        if(debug):
+            print("weighted input",weighted_input.shape)
+        #r = torch.cat((torch.max(weighted_input, dim=1)[0], torch.std(weighted_input, dim=1, unbiased=False)), dim=1)
+        return torch.max(weighted_input, dim=1)[0], a

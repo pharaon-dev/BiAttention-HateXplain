@@ -1,0 +1,93 @@
+{
+    "classification_scores": {
+        "accuracy": 0.6392294220665499,
+        "aopc_thresholds": null,
+        "comprehensiveness": 0.3307553132927765,
+        "comprehensiveness_aopc": null,
+        "comprehensiveness_aopc_points": null,
+        "comprehensiveness_entropy": -0.000843569591149579,
+        "comprehensiveness_kl": 0.7654541488251341,
+        "prf": {
+            "accuracy": 0.6392294220665499,
+            "hatespeech": {
+                "f1-score": 0.7818181818181819,
+                "precision": 0.849802371541502,
+                "recall": 0.7239057239057239,
+                "support": 594
+            },
+            "macro avg": {
+                "f1-score": 0.470690094219506,
+                "precision": 0.5307922096557481,
+                "recall": 0.42378365979339216,
+                "support": 1142
+            },
+            "normal": {
+                "f1-score": 0.0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "support": 0
+            },
+            "offensive": {
+                "f1-score": 0.6302521008403361,
+                "precision": 0.7425742574257426,
+                "recall": 0.5474452554744526,
+                "support": 548
+            },
+            "weighted avg": {
+                "f1-score": 0.7090876981265362,
+                "precision": 0.7983478999693162,
+                "recall": 0.6392294220665499,
+                "support": 1142
+            }
+        },
+        "sufficiency": -0.04951241577693282,
+        "sufficiency_aopc": null,
+        "sufficiency_aopc_points": null,
+        "sufficiency_entropy": 0.12333655354747008,
+        "sufficiency_kl": 0.05907402674571495
+    },
+    "iou_scores": [
+        {
+            "macro": {
+                "f1": 0.22664540270914427,
+                "p": 0.14700817279626377,
+                "r": 0.4945563339171046
+            },
+            "micro": {
+                "f1": 0.224908325410838,
+                "p": 0.1461864406779661,
+                "r": 0.48734549735138316
+            },
+            "threshold": 0.5
+        }
+    ],
+    "rationale_prf": {
+        "instance_macro": {
+            "f1": 0.11587946010012566,
+            "p": 0.07815236427320539,
+            "r": 0.26368943374197307
+        },
+        "instance_micro": {
+            "f1": 0.1197881298383811,
+            "p": 0.07786016949152542,
+            "r": 0.2595644496762802
+        }
+    },
+    "token_prf": {
+        "instance_macro": {
+            "f1": 0.4799541144304349,
+            "p": 0.587375948628138,
+            "r": 0.616076939475024
+        },
+        "instance_micro": {
+            "f1": 0.4200884396715098,
+            "p": 0.5870409604519774,
+            "r": 0.3270706275821365
+        }
+    },
+    "token_soft_metrics": {
+        "auprc": 0.8145107679477522,
+        "average_precision": 0.8073067253251576,
+        "roc_auc_score": 0.8054633060777813
+    }
+}

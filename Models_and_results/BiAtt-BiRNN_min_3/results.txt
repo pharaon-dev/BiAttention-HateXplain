@@ -1,0 +1,432 @@
+Since you dont want to use GPU, using the CPU instead.
+[1.2301791 0.8423818]
+0it [00:00, ?it/s]
+
+======== Epoch 1 / 5 ========
+Training...
+481it [06:42,  1.20it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.46273499169615
+model previously passed
+Running eval on  train ...
+481it [01:32,  5.17it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.69
+ Fscore: 0.69
+ Precision: 0.72
+ Recall: 0.72
+ Roc Auc: 0.00
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.20it/s]
+1it [00:00,  5.34it/s]
+ Accuracy: 0.66
+ Fscore: 0.66
+ Precision: 0.70
+ Recall: 0.69
+ Roc Auc: 0.00
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.18it/s]
+ Accuracy: 0.67
+ Fscore: 0.67
+ Precision: 0.71
+ Recall: 0.70
+ Roc Auc: 0.00
+ Test took: 0:00:12
+0.6561785485586811 0
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 2 / 5 ========
+Training...
+481it [06:43,  1.19it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.3495090667027
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.15it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.73
+ Fscore: 0.73
+ Precision: 0.75
+ Recall: 0.75
+ Roc Auc: 0.00
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.12it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.69
+ Fscore: 0.69
+ Precision: 0.73
+ Recall: 0.72
+ Roc Auc: 0.00
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.16it/s]
+ Accuracy: 0.70
+ Fscore: 0.70
+ Precision: 0.73
+ Recall: 0.73
+ Roc Auc: 0.00
+ Test took: 0:00:12
+0.6933803062193753 0.6561785485586811
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [06:56,  1.16it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.30812805556457
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.16it/s]
+1it [00:00,  5.35it/s]
+ Accuracy: 0.76
+ Fscore: 0.76
+ Precision: 0.78
+ Recall: 0.78
+ Roc Auc: 0.00
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.20it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.71
+ Fscore: 0.71
+ Precision: 0.73
+ Recall: 0.73
+ Roc Auc: 0.00
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.16it/s]
+ Accuracy: 0.71
+ Fscore: 0.71
+ Precision: 0.73
+ Recall: 0.73
+ Roc Auc: 0.00
+ Test took: 0:00:12
+0.7086355746564492 0.6933803062193753
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 4 / 5 ========
+Training...
+481it [07:04,  1.13it/s]
+1it [00:00,  5.52it/s]
+avg_train_loss 295.29091747387037
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.16it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.83
+ Fscore: 0.82
+ Precision: 0.82
+ Recall: 0.81
+ Roc Auc: 0.00
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.20it/s]
+1it [00:00,  5.63it/s]
+ Accuracy: 0.73
+ Fscore: 0.71
+ Precision: 0.72
+ Recall: 0.71
+ Roc Auc: 0.00
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.23it/s]
+ Accuracy: 0.74
+ Fscore: 0.72
+ Precision: 0.73
+ Recall: 0.72
+ Roc Auc: 0.00
+ Test took: 0:00:12
+0.7109527471588482 0.7086355746564492
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [07:00,  1.14it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.2598286269856
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.17it/s]
+1it [00:00,  5.97it/s]
+ Accuracy: 0.85
+ Fscore: 0.84
+ Precision: 0.84
+ Recall: 0.84
+ Roc Auc: 0.00
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.19it/s]
+1it [00:00,  5.45it/s]
+ Accuracy: 0.73
+ Fscore: 0.72
+ Precision: 0.72
+ Recall: 0.72
+ Roc Auc: 0.00
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.17it/s]
+ Accuracy: 0.74
+ Fscore: 0.74
+ Precision: 0.74
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:12
+0.7197506879680395 0.7109527471588482
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+best_val_fscore 0.7197506879680395
+best_test_fscore 0.7351117021097981
+best_val_rocauc 0
+best_test_rocauc 0
+best_val_precision 0.7200782846698899
+best_test_precision 0.7350183494450412
+best_val_recall 0.7194438241271388
+best_test_recall 0.7352067759259342
+
+Since you dont want to use GPU, using the CPU instead.
+[1.0796857 0.8201194 1.1703163]
+0it [00:00, ?it/s]
+
+======== Epoch 1 / 5 ========
+Training...
+481it [09:31,  1.19s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.7908519340404
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.17it/s]
+1it [00:00,  5.24it/s]
+ Accuracy: 0.61
+ Fscore: 0.58
+ Precision: 0.63
+ Recall: 0.58
+ Roc Auc: 0.77
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.12it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.59
+ Fscore: 0.56
+ Precision: 0.62
+ Recall: 0.56
+ Roc Auc: 0.76
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.18it/s]
+ Accuracy: 0.60
+ Fscore: 0.57
+ Precision: 0.62
+ Recall: 0.57
+ Roc Auc: 0.76
+ Test took: 0:00:12
+0.5576075307328863 0
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 2 / 5 ========
+Training...
+481it [08:43,  1.09s/it]
+1it [00:00,  5.12it/s]
+avg_train_loss 295.6454894765747
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.17it/s]
+1it [00:00,  5.36it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.15it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.64
+ Fscore: 0.63
+ Precision: 0.64
+ Recall: 0.63
+ Roc Auc: 0.79
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.14it/s]
+ Accuracy: 0.64
+ Fscore: 0.64
+ Precision: 0.64
+ Recall: 0.63
+ Roc Auc: 0.79
+ Test took: 0:00:12
+0.629945028234664 0.5576075307328863
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [09:09,  1.14s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.580376702386
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.16it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.67
+ Fscore: 0.63
+ Precision: 0.67
+ Recall: 0.64
+ Roc Auc: 0.83
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.18it/s]
+1it [00:00,  5.41it/s]
+ Accuracy: 0.64
+ Fscore: 0.60
+ Precision: 0.64
+ Recall: 0.61
+ Roc Auc: 0.80
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.10it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.64
+ Fscore: 0.61
+ Precision: 0.65
+ Recall: 0.62
+ Roc Auc: 0.81
+ Test took: 0:00:12
+
+======== Epoch 4 / 5 ========
+Training...
+481it [08:32,  1.07s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.5678595465583
+model previously passed
+Running eval on  train ...
+481it [01:33,  5.15it/s]
+1it [00:00,  5.49it/s]
+ Accuracy: 0.70
+ Fscore: 0.69
+ Precision: 0.70
+ Recall: 0.69
+ Roc Auc: 0.85
+ Test took: 0:01:34
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.17it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.65
+ Fscore: 0.64
+ Precision: 0.65
+ Recall: 0.63
+ Roc Auc: 0.81
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.14it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.65
+ Roc Auc: 0.82
+ Test took: 0:00:12
+0.6376684404021823 0.629945028234664
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [09:51,  1.23s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.5358277001649
+model previously passed
+Running eval on  train ...
+481it [01:38,  4.91it/s]
+1it [00:00,  5.24it/s]
+ Accuracy: 0.71
+ Fscore: 0.70
+ Precision: 0.70
+ Recall: 0.70
+ Roc Auc: 0.87
+ Test took: 0:01:39
+model previously passed
+Running eval on  val ...
+61it [00:12,  5.07it/s]
+1it [00:00,  5.32it/s]
+ Accuracy: 0.64
+ Fscore: 0.62
+ Precision: 0.63
+ Recall: 0.63
+ Roc Auc: 0.81
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:12,  5.07it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.64
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:00:12
+best_val_fscore 0.6376684404021823
+best_test_fscore 0.6498149152108685
+best_val_rocauc 0.8070544048392126
+best_test_rocauc 0.8180880528547935
+best_val_precision 0.6459061989479798
+best_test_precision 0.6542726774207287
+best_val_recall 0.6335512692898152
+best_test_recall 0.6471484717933091
+
+
+{'true_comprehensiveness': 1134, 'true_sufficiency': 758, 'true_explicabilty_and_true_classification': 669, 'false_explicabilty_and_true_classification': 28, 'true_explicabilty_and_false_classification': 81, 'false_explicabilty_and_false_classification': 364}
+
+BiRNN-Attn subgroup 0.6782515870001976
+BiRNN-Attn bpsn 0.6286297446836334
+BiRNN-Attn bnsp 0.6857305182191601
+
+#Attn
+Plausibility
+IOU F1 : 0.22357113071528628
+Token F1 : 0.48125071015328924
+AUPRC : 0.8161526670397684
+
+Faithfulness
+Comprehensiveness : 0.2914954714565036
+Sufficiency -0.059572830939773086
+
+#LIME
+Plausibility
+IOU F1 : 0.18077911186455337
+Token F1 : 0.40165729838579656
+AUPRC : 0.7238425624885039
+
+Faithfulness
+Comprehensiveness : 0.2945281137590125
+Sufficiency -0.12337169155556767

@@ -1,0 +1,215 @@
+Since you dont want to use GPU, using the CPU instead.
+[1.0796857 0.8201194 1.1703163]
+0it [00:00, ?it/s]
+
+======== Epoch 1 / 5 ========
+Training...
+481it [08:51,  1.11s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.7875043904707
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.32it/s]
+1it [00:00,  6.03it/s]
+ Accuracy: 0.62
+ Fscore: 0.59
+ Precision: 0.64
+ Recall: 0.59
+ Roc Auc: 0.78
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.50it/s]
+1it [00:00,  5.59it/s]
+ Accuracy: 0.60
+ Fscore: 0.57
+ Precision: 0.63
+ Recall: 0.57
+ Roc Auc: 0.77
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.45it/s]
+ Accuracy: 0.61
+ Fscore: 0.57
+ Precision: 0.62
+ Recall: 0.57
+ Roc Auc: 0.77
+ Test took: 0:00:11
+0.5715481192039943 0
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 2 / 5 ========
+Training...
+481it [08:40,  1.08s/it]
+1it [00:00,  5.25it/s]
+avg_train_loss 295.63142537773274
+model previously passed
+Running eval on  train ...
+481it [01:28,  5.44it/s]
+1it [00:00,  5.83it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.66
+ Recall: 0.63
+ Roc Auc: 0.81
+ Test took: 0:01:29
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.40it/s]
+1it [00:00,  5.56it/s]
+ Accuracy: 0.63
+ Fscore: 0.61
+ Precision: 0.64
+ Recall: 0.60
+ Roc Auc: 0.79
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.48it/s]
+ Accuracy: 0.63
+ Fscore: 0.61
+ Precision: 0.64
+ Recall: 0.61
+ Roc Auc: 0.79
+ Test took: 0:00:11
+0.607287611061196 0.5715481192039943
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [08:34,  1.07s/it]
+1it [00:00,  5.20it/s]
+avg_train_loss 295.5753307699414
+model previously passed
+Running eval on  train ...
+481it [01:28,  5.42it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.67
+ Fscore: 0.64
+ Precision: 0.68
+ Recall: 0.65
+ Roc Auc: 0.83
+ Test took: 0:01:30
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.42it/s]
+1it [00:00,  5.91it/s]
+ Accuracy: 0.64
+ Fscore: 0.62
+ Precision: 0.65
+ Recall: 0.62
+ Roc Auc: 0.80
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.46it/s]
+ Accuracy: 0.65
+ Fscore: 0.62
+ Precision: 0.66
+ Recall: 0.63
+ Roc Auc: 0.80
+ Test took: 0:00:11
+0.6179623418302629 0.607287611061196
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 4 / 5 ========
+Training...
+481it [09:18,  1.16s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.5548685117472
+model previously passed
+Running eval on  train ...
+481it [01:41,  4.73it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.71
+ Fscore: 0.70
+ Precision: 0.70
+ Recall: 0.70
+ Roc Auc: 0.86
+ Test took: 0:01:42
+model previously passed
+Running eval on  val ...
+61it [00:13,  4.56it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.64
+ Fscore: 0.64
+ Precision: 0.65
+ Recall: 0.64
+ Roc Auc: 0.80
+ Test took: 0:00:14
+model previously passed
+Running eval on  test ...
+61it [00:12,  5.05it/s]
+ Accuracy: 0.65
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.65
+ Roc Auc: 0.81
+ Test took: 0:00:12
+0.6412864152115685 0.6179623418302629
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [09:24,  1.17s/it]
+1it [00:00,  5.46it/s]
+avg_train_loss 295.5215521988898
+model previously passed
+Running eval on  train ...
+481it [01:34,  5.09it/s]
+1it [00:00,  5.74it/s]
+ Accuracy: 0.74
+ Fscore: 0.72
+ Precision: 0.73
+ Recall: 0.72
+ Roc Auc: 0.88
+ Test took: 0:01:35
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.51it/s]
+1it [00:00,  6.03it/s]
+ Accuracy: 0.64
+ Fscore: 0.62
+ Precision: 0.63
+ Recall: 0.63
+ Roc Auc: 0.80
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.52it/s]
+ Accuracy: 0.66
+ Fscore: 0.64
+ Precision: 0.65
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:00:11
+best_val_fscore 0.6412864152115685
+best_test_fscore 0.6488518303619185
+best_val_rocauc 0.8047122674681854
+best_test_rocauc 0.814894851360088
+best_val_precision 0.6455497175759674
+best_test_precision 0.6499242337644008
+best_val_recall 0.6393715285592972
+best_test_recall 0.6484213409528125
+
+
+{'true_explicabilty_and_true_classification': 680, 'false_explicabilty_and_true_classification': 50, 'true_explicabilty_and_false_classification': 94, 'false_explicabilty_and_false_classification': 318}
+
+
+Plausibility
+IOU F1 : 0.22664540270914427
+Token F1 : 0.4799541144304349
+AUPRC : 0.8145107679477522
+
+Faithfulness
+Comprehensiveness : 0.3307553132927765
+Sufficiency -0.04951241577693282

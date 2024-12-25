@@ -1,0 +1,258 @@
+Since you dont want to use GPU, using the CPU instead.
+[1.0796857 0.8201194 1.1703163]
+0it [00:00, ?it/s]
+
+======== Epoch 1 / 5 ========
+Training...
+481it [07:34,  1.06it/s]
+0it [00:00, ?it/s]
+avg_train_loss 296.0035920648714
+model previously passed
+Running eval on  train ...
+481it [01:29,  5.39it/s]
+1it [00:00,  5.90it/s]
+ Accuracy: 0.55
+ Fscore: 0.54
+ Precision: 0.61
+ Recall: 0.53
+ Roc Auc: 0.74
+ Test took: 0:01:30
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.38it/s]
+1it [00:00,  5.38it/s]
+ Accuracy: 0.55
+ Fscore: 0.55
+ Precision: 0.62
+ Recall: 0.54
+ Roc Auc: 0.73
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.13it/s]
+ Accuracy: 0.54
+ Fscore: 0.53
+ Precision: 0.60
+ Recall: 0.52
+ Roc Auc: 0.73
+ Test took: 0:00:12
+0.5471992718443691 0
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 2 / 5 ========
+Training...
+481it [07:12,  1.11it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.9147443553266
+model previously passed
+Running eval on  train ...
+481it [01:31,  5.24it/s]
+1it [00:00,  5.20it/s]
+ Accuracy: 0.64
+ Fscore: 0.63
+ Precision: 0.63
+ Recall: 0.63
+ Roc Auc: 0.80
+ Test took: 0:01:33
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.21it/s]
+1it [00:00,  5.16it/s]
+ Accuracy: 0.61
+ Fscore: 0.61
+ Precision: 0.62
+ Recall: 0.61
+ Roc Auc: 0.78
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.29it/s]
+ Accuracy: 0.59
+ Fscore: 0.59
+ Precision: 0.59
+ Recall: 0.59
+ Roc Auc: 0.78
+ Test took: 0:00:12
+0.6123931310719221 0.5471992718443691
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [07:20,  1.09it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.89467336928277
+model previously passed
+Running eval on  train ...
+481it [01:31,  5.27it/s]
+1it [00:00,  5.65it/s]
+ Accuracy: 0.67
+ Fscore: 0.65
+ Precision: 0.66
+ Recall: 0.66
+ Roc Auc: 0.82
+ Test took: 0:01:32
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.40it/s]
+1it [00:00,  5.89it/s]
+ Accuracy: 0.63
+ Fscore: 0.61
+ Precision: 0.62
+ Recall: 0.62
+ Roc Auc: 0.80
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.36it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.63
+ Recall: 0.64
+ Roc Auc: 0.80
+ Test took: 0:00:12
+0.6147201245465147 0.6123931310719221
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 4 / 5 ========
+Training...
+481it [07:39,  1.05it/s]
+1it [00:00,  5.68it/s]
+avg_train_loss 295.85637675897993
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.34it/s]
+1it [00:00,  6.19it/s]
+ Accuracy: 0.69
+ Fscore: 0.67
+ Precision: 0.69
+ Recall: 0.67
+ Roc Auc: 0.85
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.40it/s]
+1it [00:00,  5.46it/s]
+ Accuracy: 0.64
+ Fscore: 0.63
+ Precision: 0.64
+ Recall: 0.62
+ Roc Auc: 0.80
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.35it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.65
+ Recall: 0.63
+ Roc Auc: 0.80
+ Test took: 0:00:12
+0.6257029954876007 0.6147201245465147
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [07:19,  1.09it/s]
+1it [00:00,  5.57it/s]
+avg_train_loss 295.7949250790285
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.34it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.74
+ Fscore: 0.73
+ Precision: 0.73
+ Recall: 0.73
+ Roc Auc: 0.87
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.29it/s]
+1it [00:00,  5.68it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.66
+ Recall: 0.65
+ Roc Auc: 0.81
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.36it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.65
+ Roc Auc: 0.81
+ Test took: 0:00:11
+0.6538158098014589 0.6257029954876007
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+best_val_fscore 0.6538158098014589
+best_test_fscore 0.6535898774942209
+best_val_rocauc 0.8142541556971992
+best_test_rocauc 0.8125139867529461
+best_val_precision 0.6565488068285397
+best_test_precision 0.6546796116504855
+best_val_recall 0.6522679464155018
+best_test_recall 0.6535567905487819
+
+
+
+
+Plausibility
+IOU F1 : 0.22489392120014076
+Token F1 : 0.4832063769863552
+AUPRC : 0.813354820512237
+
+Faithfulness
+Comprehensiveness : 0.33379252636629586
+Sufficiency -0.08367265728277834
+
+
+
+
+class Attention_BiRNN_Layer(nn.Module):
+    def __init__(self, feature_dim, step_dim, drop_hidden, drop_embed, bias=True, **kwargs):
+        super(Attention_BiRNN_Layer, self).__init__(**kwargs)
+        
+        self.supports_masking = True
+
+        self.bias = bias
+        self.feature_dim = feature_dim
+        self.step_dim = step_dim
+        #self.maxpool1D = nn.MaxPool1d(self.step_dim, stride=1)
+        drop_embed_x = 0.5
+        self.dropout_embed = nn.Dropout2d(drop_embed_x)
+        self.b = nn.Parameter(torch.zeros(step_dim))
+
+        self.seq_model = nn.LSTM(self.feature_dim, 1, bidirectional=True, num_layers=1, batch_first=True, dropout=drop_hidden)
+
+        
+    def forward(self, x, mask=None):
+        y = torch.squeeze(self.dropout_embed(torch.unsqueeze(x, 0))).view(x.shape[0], x.shape[1], x.shape[2])
+        a, _ = self.seq_model(y)
+        if(debug):
+            print("attention", a.shape)
+        a = torch.sum(a, dim=2)
+        #a = a.squeeze(2)
+        a[~mask] = float('-inf')
+        a=torch.softmax(a, dim=1)
+        weighted_input = x * torch.unsqueeze(a, -1)
+        if(debug):
+            print("weighted input",weighted_input.shape)
+        #r = torch.cat((torch.max(weighted_input, dim=1)[0], torch.sum(weighted_input, dim=1)), dim=1)
+        return torch.min(weighted_input, dim=1)[0], torch.max(weighted_input, dim=1)[0], a
+        #return self.maxpool1D(weighted_input.permute(0, 2, 1)).view(-1, self.feature_dim), a
+
+
+seed = 5
+
+{'true_comprehensiveness': 1089, 'true_sufficiency': 769, 'true_explicabilty_and_true_classification': 637, 'false_explicabilty_and_true_classification': 78, 'true_explicabilty_and_false_classification': 88, 'false_explicabilty_and_false_classification': 339}

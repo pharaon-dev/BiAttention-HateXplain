@@ -1,0 +1,435 @@
+Since you dont want to use GPU, using the CPU instead.
+[1.2301791 0.8423818]
+0it [00:00, ?it/s]
+
+======== Epoch 1 / 5 ========
+Training...
+481it [07:27,  1.07it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.3465106670673
+model previously passed
+Running eval on  train ...
+481it [01:29,  5.40it/s]
+1it [00:00,  5.75it/s]
+ Accuracy: 0.73
+ Fscore: 0.73
+ Precision: 0.74
+ Recall: 0.75
+ Roc Auc: 0.00
+ Test took: 0:01:30
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.40it/s]
+1it [00:00,  5.91it/s]
+ Accuracy: 0.69
+ Fscore: 0.69
+ Precision: 0.71
+ Recall: 0.72
+ Roc Auc: 0.00
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.43it/s]
+ Accuracy: 0.71
+ Fscore: 0.71
+ Precision: 0.72
+ Recall: 0.73
+ Roc Auc: 0.00
+ Test took: 0:00:11
+0.6919661662643739 0
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 2 / 5 ========
+Training...
+481it [07:31,  1.06it/s]
+1it [00:00,  5.66it/s]
+avg_train_loss 295.18307177886646
+model previously passed
+Running eval on  train ...
+481it [01:29,  5.36it/s]
+1it [00:00,  6.01it/s]
+ Accuracy: 0.77
+ Fscore: 0.77
+ Precision: 0.78
+ Recall: 0.79
+ Roc Auc: 0.00
+ Test took: 0:01:30
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.38it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.72
+ Fscore: 0.72
+ Precision: 0.73
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.47it/s]
+ Accuracy: 0.73
+ Fscore: 0.73
+ Precision: 0.74
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:11
+0.7196676903590731 0.6919661662643739
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [08:00,  1.00it/s]
+1it [00:00,  5.59it/s]
+avg_train_loss 295.11884566404217
+model previously passed
+Running eval on  train ...
+481it [01:29,  5.35it/s]
+1it [00:00,  5.75it/s]
+ Accuracy: 0.83
+ Fscore: 0.83
+ Precision: 0.83
+ Recall: 0.84
+ Roc Auc: 0.00
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.31it/s]
+1it [00:00,  6.06it/s]
+ Accuracy: 0.73
+ Fscore: 0.73
+ Precision: 0.74
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.42it/s]
+ Accuracy: 0.74
+ Fscore: 0.74
+ Precision: 0.74
+ Recall: 0.75
+ Roc Auc: 0.00
+ Test took: 0:00:11
+0.7323451703055102 0.7196676903590731
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 4 / 5 ========
+Training...
+481it [07:41,  1.04it/s]
+0it [00:00, ?it/s]
+avg_train_loss 295.0650023779601
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.33it/s]
+1it [00:00,  5.81it/s]
+ Accuracy: 0.87
+ Fscore: 0.87
+ Precision: 0.87
+ Recall: 0.87
+ Roc Auc: 0.00
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.46it/s]
+1it [00:00,  5.80it/s]
+ Accuracy: 0.75
+ Fscore: 0.74
+ Precision: 0.74
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.35it/s]
+ Accuracy: 0.75
+ Fscore: 0.74
+ Precision: 0.74
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:11
+0.7387655971479501 0.7323451703055102
+Saving model
+Saved/birnnscrat_lstm_64_2_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [07:43,  1.04it/s]
+1it [00:00,  5.35it/s]
+avg_train_loss 295.0029250559341
+model previously passed
+Running eval on  train ...
+481it [01:29,  5.35it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.91
+ Fscore: 0.91
+ Precision: 0.90
+ Recall: 0.91
+ Roc Auc: 0.00
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.44it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.74
+ Fscore: 0.73
+ Precision: 0.73
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.42it/s]
+ Accuracy: 0.74
+ Fscore: 0.74
+ Precision: 0.73
+ Recall: 0.74
+ Roc Auc: 0.00
+ Test took: 0:00:11
+best_val_fscore 0.7387655971479501
+best_test_fscore 0.7426570797499883
+best_val_rocauc 0
+best_test_rocauc 0
+best_val_precision 0.7374437791482216
+best_test_precision 0.7413825892644892
+best_val_recall 0.7407041243557273
+best_test_recall 0.7444571600055541
+
+
+Since you dont want to use GPU, using the CPU instead.
+[1.0796857 0.8201194 1.1703163]
+0it [00:00, ?it/s]
+
+======== Epoch 1 / 5 ========
+Training...
+481it [10:01,  1.25s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.645510731021
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.31it/s]
+1it [00:00,  5.92it/s]
+ Accuracy: 0.64
+ Fscore: 0.61
+ Precision: 0.64
+ Recall: 0.61
+ Roc Auc: 0.79
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.36it/s]
+1it [00:00,  5.84it/s]
+ Accuracy: 0.61
+ Fscore: 0.59
+ Precision: 0.63
+ Recall: 0.59
+ Roc Auc: 0.78
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.34it/s]
+ Accuracy: 0.62
+ Fscore: 0.60
+ Precision: 0.62
+ Recall: 0.60
+ Roc Auc: 0.78
+ Test took: 0:00:12
+0.5941022919198514 0
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 2 / 5 ========
+Training...
+481it [08:45,  1.09s/it]
+1it [00:00,  5.35it/s]
+avg_train_loss 295.430151798621
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.31it/s]
+1it [00:00,  5.50it/s]
+ Accuracy: 0.68
+ Fscore: 0.67
+ Precision: 0.67
+ Recall: 0.67
+ Roc Auc: 0.83
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.30it/s]
+1it [00:00,  5.93it/s]
+ Accuracy: 0.65
+ Fscore: 0.64
+ Precision: 0.64
+ Recall: 0.64
+ Roc Auc: 0.80
+ Test took: 0:00:12
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.33it/s]
+ Accuracy: 0.65
+ Fscore: 0.64
+ Precision: 0.64
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:00:12
+0.6375052355938787 0.5941022919198514
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 3 / 5 ========
+Training...
+481it [09:17,  1.16s/it]
+1it [00:00,  5.59it/s]
+avg_train_loss 295.3578272956325
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.34it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.71
+ Fscore: 0.69
+ Precision: 0.70
+ Recall: 0.69
+ Roc Auc: 0.85
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.36it/s]
+1it [00:00,  6.01it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.64
+ Recall: 0.63
+ Roc Auc: 0.81
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.42it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.65
+ Fscore: 0.63
+ Precision: 0.65
+ Recall: 0.64
+ Roc Auc: 0.82
+ Test took: 0:00:11
+
+======== Epoch 4 / 5 ========
+Training...
+481it [09:58,  1.24s/it]
+1it [00:00,  5.12it/s]
+avg_train_loss 295.29732191438734
+model previously passed
+Running eval on  train ...
+481it [01:30,  5.34it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.75
+ Fscore: 0.75
+ Precision: 0.75
+ Recall: 0.75
+ Roc Auc: 0.89
+ Test took: 0:01:31
+model previously passed
+Running eval on  val ...
+61it [00:11,  5.39it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.65
+ Fscore: 0.64
+ Precision: 0.64
+ Recall: 0.64
+ Roc Auc: 0.81
+ Test took: 0:00:11
+model previously passed
+Running eval on  test ...
+61it [00:11,  5.41it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.66
+ Roc Auc: 0.82
+ Test took: 0:00:11
+0.6404650571577403 0.6375052355938787
+Saving model
+Saved/birnnscrat_lstm_64_3_100.pth
+0it [00:00, ?it/s]
+
+======== Epoch 5 / 5 ========
+Training...
+481it [09:20,  1.17s/it]
+0it [00:00, ?it/s]
+avg_train_loss 295.23605156341364
+model previously passed
+Running eval on  train ...
+481it [01:36,  4.97it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.80
+ Fscore: 0.79
+ Precision: 0.79
+ Recall: 0.79
+ Roc Auc: 0.92
+ Test took: 0:01:38
+model previously passed
+Running eval on  val ...
+61it [00:12,  4.83it/s]
+0it [00:00, ?it/s]
+ Accuracy: 0.64
+ Fscore: 0.63
+ Precision: 0.63
+ Recall: 0.63
+ Roc Auc: 0.81
+ Test took: 0:00:13
+model previously passed
+Running eval on  test ...
+61it [00:12,  4.80it/s]
+ Accuracy: 0.66
+ Fscore: 0.65
+ Precision: 0.65
+ Recall: 0.65
+ Roc Auc: 0.82
+ Test took: 0:00:13
+best_val_fscore 0.6404650571577403
+best_test_fscore 0.6518364518364518
+best_val_rocauc 0.8141105145850936
+best_test_rocauc 0.8217717977069195
+best_val_precision 0.6392119971752246
+best_test_precision 0.650518113538276
+best_val_recall 0.6435446530804007
+best_test_recall 0.6559257989569561
+
+
+Accuracy: 0.665
+ Fscore: 0.479
+ Precision: 0.531
+ Recall: 0.441
+
+
+ {'true_comprehensiveness': 1115, 'true_sufficiency': 788, 'true_explicabilty_and_true_classification': 687, 'false_explicabilty_and_true_classification': 73, 'true_explicabilty_and_false_classification': 78, 'false_explicabilty_and_false_classification': 304}
+
+BiRNN-Attn subgroup 0.6883066427307245
+BiRNN-Attn bpsn 0.5633591820580937
+BiRNN-Attn bnsp 0.7082456156528565
+
+Plausibility
+IOU F1 : 0.23430428496032193
+Token F1 : 0.4936382993661546
+AUPRC : 0.831219708328393
+
+Faithfulness
+Comprehensiveness : 0.39992093618786223
+Sufficiency -0.024188214692820495
+1177671086139478016_twitter
+5-*2
+"15479352_gab": {"post_id": "15479352_gab", "annotators": [{"label": "hatespeech", "annotator_id": 200, "target": ["Jewish"]}, {"label": "hatespeech", "annotator_id": 219, "target": ["Jewish"]}, {"label": "hatespeech", "annotator_id": 220, "target": ["Jewish"]}], "rationales": 
+[[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0]], "post_tokens": ["The", "jews", "are", "again", "using", "holohoax", "as", "an", "excuse", "to", "spread",
+ "their", "agenda", "Hilter", "should", "have", "eradicated", "them"]}
+
+
+["The", "jews", "are", "again", "using", "holohoax", "as", "an", "excuse", "to", "spread",
+ "their", "agenda", "Hilter", "should", "have", "eradicated", "them"]
+[0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0]

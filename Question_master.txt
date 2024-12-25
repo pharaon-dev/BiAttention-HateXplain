@@ -1,0 +1,8 @@
+1 - Comment sélectionner les rationnels lors des prédictions de l'explicabilité ?
+2 - C'est quoi Glove ? 
+3 - Définir l'explicabilité et l'interpretabilité ? Quelle est la différence entre l'explicabilité et l'interpretabilité ?
+4 - Avez vous étudié l'etat de l'art sur la détection des discours de haine ?
+5 - Expliquer comment fonctionne l'optimiseur Adam ?
+6 - Comment s'effectue la rétropropagation du gradient dans un apprentissage multi-tâches ?
+7 - C'est quoi le transfert learning ? Quelle est l'approche de transfert learning utilisée ici ? 
+8 - Comment sont calculées les différentes métriques utilisées en expérimentation ?

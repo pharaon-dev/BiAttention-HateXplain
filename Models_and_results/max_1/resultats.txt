@@ -1,0 +1,28 @@
+-   Performance
+ Accuracy: 0.66
+ Fscore: 0.64
+ Precision: 0.65
+ Recall: 0.64
+ Roc Auc: 0.80
+ Test took: 0:00:11
+best_val_fscore 0.6316360871704843
+best_test_fscore 0.6476962310746358
+best_val_rocauc 0.8012334501317203
+best_test_rocauc 0.8120925037247897
+best_val_precision 0.6388662000302222
+best_test_precision 0.6496736482162507
+best_val_recall 0.6281153436068191
+best_test_recall 0.6465046699752769
+
+-   Explicability
+Plausibility
+IOU F1 : 0.23052756826984325
+Token F1 : 0.5021743435920999
+AUPRC : 0.8387181294069657
+
+Faithfulness
+Comprehensiveness : 0.3327236655519673
+Sufficiency -0.08165525994549021
+
+Utilisation de BiRNN comme couche d'attention
+Learning rate est de 0.001
