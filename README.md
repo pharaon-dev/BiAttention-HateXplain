@@ -15,4 +15,4 @@ Our hypothesis is that considering the sequential aspect of input data in HateXp
 The results show that the proposed approach improves explainability, prediction performance, and metrics that measure unintentional biases of the model.
 
 ## Installation:
-It is recommended to use a tool like conda to create a virtual environment and facilitate conflict management.
+It is recommended to use a tool like ```conda``` to create a virtual environment and facilitate conflict management.
