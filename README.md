@@ -1,5 +1,5 @@
 # BiAtt-HateXplain
-This algorithm is derived from the BiRNN-HateXplain algorithm, and this project is based on the HateXplain project https://arxiv.org/pdf/2012.10289
+This algorithm is derived from the BiRNN-HateXplain algorithm, and this project is based on the HateXplain project https://github.com/hate-alert/HateXplain/tree/master (Associated article : https://arxiv.org/pdf/2012.10289)
 The results of our studies can be found in the ```models_and_results/BiAtt_BiRNN_max_2``` folder.
 
 ## Objective:
