@@ -15,7 +15,8 @@ In current algorithms such as BiRNN-HateXplain, we observe a large variation in 
 We observe for example that in the interval [8, 20] of the plot above, the attention estimated by the BiRNN-HateXplain model varies a lot when it should be constant.
 
 ## Proposal
-Our hypothesis is that considering the sequential aspect of input data in HateXplain models could resolve the variability of attention and improve explainability. And then, it can also improve classification performance and unintentional biases related to communities indexed in hate speech  because it uses multi-task learning(classification and explainability tasks).
+Our hypothesis is that considering the sequential aspect of input data in HateXplain models could resolve the variability of attention and improve explainability. And then, it can also improve classification performance and unintentional biases related to communities indexed in hate speech  because it uses multi-task learning(classification and explainability tasks).  
+![Texte alternatif](13.png)  
 
 ## Results
 The results show that the proposed approach improves explainability, prediction performance, and metrics that measure unintentional biases of the model. We also observed that the attention estimated by the proposed approach estimates constant attention when it should be.  
