@@ -4,6 +4,8 @@ The results of our studies can be found in the ```models_and_results/BiAtt_BiRNN
 
 File ```example_hatexplain_with_BiRNN-HateXplain_vs_BiAtt_BiRNN-HateXplain.ipynb``` contains examples of comparison between ground truth attention, attention predicted by BiRNN-HateXplain and that predicted by BiAtt-BiRNN-HateXplain.
 
+To train a proposed model use the file ```Example_HateExplain.ipynb```
+
 ## Objective
 The objective of this project is to improve the results of the BiRNN-HateXplain and BERT-HateXplain algorithms in terms of detection performance, unintentional bias, and explainability.
 
