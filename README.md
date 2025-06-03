@@ -24,4 +24,4 @@ The results show that the proposed approach improves explainability, prediction 
 In the above figure in the interval [8, 20] compared to BiRNN-HateXplain, the attention of the proposed model is constant when it should be in reality.
 
 ## Installation
-It is recommended to use a tool like ```conda``` to create a virtual environment and facilitate conflict management.
+It is recommended to use a tool like ```conda``` to create a virtual environment and facilitate conflict management. Install the appropriate packages contained in the ```requirements.txt``` file
